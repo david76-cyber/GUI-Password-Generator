@@ -16,9 +16,6 @@ A sleek, user-friendly desktop application that allows you to generate **secure 
 
 ---
 
-## 🧪 Demo
-
-![Password Generator GUI Screenshot](https://your-screenshot-link.com) *(optional)*
 
 ---
 
